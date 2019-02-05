@@ -1,0 +1,303 @@
+
+.body{
+	width: 100%;
+	margin: 0px auto;
+	background-color: #2b77ad;
+	height: 1500px;
+	position: relative;
+
+
+}
+.main{
+	width: 60%;
+	height: 910px;
+	position: absolute;
+	top: 100px;
+	right: 310px;
+	border: 3px groove;
+	border-color: white;
+	background-color: #2b77ad;
+
+
+
+}
+.header{
+
+}
+
+.box{
+	border: 2px groove;
+	border-color: white;
+	color: white;
+	width: 95%;
+	height: 234px;
+	background-color: #2b77ad;
+	right: -20px;
+	
+	position: relative;
+	display: inline-block;
+
+
+
+
+}
+
+.box01{
+	top: -5px;
+	
+
+
+}
+.box02{
+	top: 5px;
+	
+
+}
+.box03{
+	top: 15px;
+	
+
+
+}
+
+.box-name{
+	width: 92%;
+	height: 48px;
+	position: absolute;
+	background-color: #2b77ad;
+	
+	border: 1px  groove white;
+	top:0px;
+	left: 0px;
+	padding-left: 5px;
+
+}
+.box-menu button{
+	color: white;
+	width: 60px;
+	height: 50px;
+	position: absolute;
+	background-color: #2b77ad;
+	
+	
+	top:0px;
+	right: 0px;
+
+}
+
+.box-button button{
+	width: 40px;
+	height: 48px;
+	position: absolute;
+	background-color: #2b77ad;
+	border-style: none;
+	color: white;
+	bottom:0px;
+	left: 0px;
+	
+
+}
+.box-text{
+	width: 300px;
+	height: 48px;
+	position: absolute;
+	background-color: #2b77ad;
+	
+	/*border: 1px  groove white;*/
+	bottom:0px;
+	right: 70px;
+	
+}
+
+.box-infobutton button{
+	width: 60px;
+	height: 48px;
+	position: absolute;
+	background-color: white;
+	display: inline-block;
+	
+	
+	bottom:0px;
+	right: 0px;
+	border-radius: 100%
+
+}
+.head01{
+border-bottom: 1px white groove;
+color: white;
+width: 95%;
+height: 100px;
+background-color: #2b77ad;
+right: -20px;
+margin: 0px auto;
+
+
+}
+.head01 p{
+	position: absolute;
+	top: -10px;
+	left: 200px;
+	font-size: 40px;
+}
+
+.head02{
+	
+color: white;
+width: 95%;
+height: 50px;
+background-color: #2b77ad;
+right: -20px;
+margin: 0px auto;
+position: relative;
+
+}
+
+
+.head02-box p{
+	position: absolute;
+	top:15px;
+	left: 10px;
+	display: inline-block;
+}
+
+.head02-text p{
+	position: absolute;
+	right: 77px;
+	top: -14px;
+
+}
+.yumuru button{
+	width: 26px;
+	height: 25px;
+	position: absolute;
+	background-color: white;
+	display: inline-block;
+	border-radius: 100%;
+}
+
+.head02-button{
+
+	position: absolute;
+	top:0px;
+	
+	display: inline-block;
+
+
+}
+
+.lefthead02
+{
+	left: 100px;
+}
+.lefthead05
+{
+	right: 40px;
+}
+
+.lefthead03
+{
+	left: 350px;
+}
+
+.say{
+	color: white;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	background-color:  #2b77ad;
+	display: inline-block;
+	border: 1px white groove;
+	
+
+}
+
+.say1{
+	left: 385px;
+
+
+}
+
+.say2{
+	left: 415px;
+
+
+}
+
+.say3{
+	left: 445px;
+
+
+}
+
+.say21{
+	left: 490px;
+
+
+}
+
+.lefthead04
+{
+	left: 550px;
+}
+
+.nok{
+	left: 472px
+
+}
+
+
+.sekil{
+	color: white;
+	width: 125px;
+	height: 125px;
+	position: absolute;
+	background-color:  #2b77ad;
+	display: inline-block;
+	border: 1px white groove;
+	top: 59px;
+	left: 10px;
+
+}
+
+.text{
+	color: white;
+	width:600px;
+	height: 125px;
+	position: absolute;
+	background-color:  #2b77ad;
+	display: inline-block;
+	/*border: 1px white groove;*/
+	top: 59px;
+	left: 150px;
+
+}
+
+.money{
+	padding-left: 60px;
+	font-size: 30px;
+	color: white;
+	width: 100px;
+	height: 40px;
+	position: absolute;
+	background-color:  #2b77ad;
+	display: inline-block;
+	border: 1px white groove;
+	top: 59px;
+	right: 10px;
+
+}
+
+.ulduz{
+	font-size: 50px;
+	padding-left: 10px;
+	color: white;
+	width: 150px;
+	height: 70px;
+	position: absolute;
+	background-color:  #2b77ad;
+	display: inline-block;
+	border: 1px white groove;
+	top: 105px;
+	right: 10px;
+
+}
